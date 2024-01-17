@@ -9,7 +9,3 @@
 ---
 
 > [The Blue Line](https://www.ehmtheblueline.com) &nbsp;&middot;&nbsp; GitHub [@archibalduk](https://github.com/archibalduk) &nbsp;&middot;&nbsp; Twitter [@ehmtheblueline](https://twitter.com/ehmtheblueline)
-
----
-
-![The Blue Line logo](images/tbl_logo_wide_2004.png)
